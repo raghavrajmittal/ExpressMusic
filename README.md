@@ -1,6 +1,6 @@
-# ExpressMusic (Other names include Doorman and Emotify):
+# ExpressMusic
 
-ExpressMusic lets you identify people in real time and play songs based on their detected facial expressions!
+ExpressMusic (aka Doorman, Emotify) lets you identify people in real time and play songs based on their detected facial expressions!
 
 &nbsp;
 #### Instructions to run:
